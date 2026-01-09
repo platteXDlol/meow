@@ -1,0 +1,8 @@
+{
+  "identifier": "m346",
+  "url": "https://m346.frickelbude.ch/",
+  "method": "GET",
+  "status_online": 200,
+  "frequency": "1m0s",
+  "fail_after": 3
+}

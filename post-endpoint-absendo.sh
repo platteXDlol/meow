@@ -1,0 +1,1 @@
+curl -X POST -d @new-endpoint.json http://localhost:8000/endpoints
